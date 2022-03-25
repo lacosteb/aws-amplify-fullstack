@@ -10,6 +10,14 @@
       "StackName": "amplify-amplifyawsapp-dev-100926",
       "StackId": "arn:aws:cloudformation:us-east-1:846406577555:stack/amplify-amplifyawsapp-dev-100926/566ed490-ac5e-11ec-b738-0ed97d4c6921",
       "AmplifyAppId": "dwp5qj78g6yda"
+    },
+    "categories": {
+      "function": {
+        "amplifyawsapp4fd9c752": {
+          "deploymentBucketName": "amplify-amplifyawsapp-dev-100926-deployment",
+          "s3Key": "amplify-builds/amplifyawsapp4fd9c752-622b6a38357976394e6a-build.zip"
+        }
+      }
     }
   }
 }
