@@ -11,3 +11,5 @@ git checkout master
 npm start
 
 That's all :D 
+
+![image](https://user-images.githubusercontent.com/81270454/160182682-61d646c8-bdbc-4209-85f8-37f1ee774acd.png)
