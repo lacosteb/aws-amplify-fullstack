@@ -17,6 +17,12 @@
           "deploymentBucketName": "amplify-amplifyawsapp-dev-100926-deployment",
           "s3Key": "amplify-builds/amplifyawsapp4fd9c752-622b6a38357976394e6a-build.zip"
         }
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dwp5qj78g6yda",
+          "type": "manual"
+        }
       }
     }
   }
